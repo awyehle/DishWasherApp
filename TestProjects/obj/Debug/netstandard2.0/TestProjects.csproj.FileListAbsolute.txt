@@ -1,0 +1,4 @@
+C:\Users\almig\source\repos\TestProjects\TestProjects\obj\Debug\netstandard2.0\TestProjects.csprojAssemblyReference.cache
+C:\Users\almig\source\repos\TestProjects\TestProjects\obj\Debug\netstandard2.0\TestProjects.csproj.CoreCompileInputs.cache
+C:\Users\almig\source\repos\TestProjects\TestProjects\obj\Debug\netstandard2.0\TestProjects.AssemblyInfoInputs.cache
+C:\Users\almig\source\repos\TestProjects\TestProjects\obj\Debug\netstandard2.0\TestProjects.AssemblyInfo.cs
